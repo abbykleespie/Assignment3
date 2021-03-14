@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+/*
+>>>>>>> SecondProgram
 let cities = []
 let doneWithCities = false
 let ask = ""
@@ -19,4 +23,9 @@ while (doneWithCities == false) {
 while (i < cities.length) {
   console.log(cities[i].toLowerCase())
   i+= 1
+<<<<<<< HEAD
 }
+=======
+}
+*/
+>>>>>>> SecondProgram
