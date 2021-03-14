@@ -1,9 +1,9 @@
+/*
 let password = prompt("What do you want for a new password?")
 let passwordConfirm = prompt("Confirm the new password")
 
 function Compare(pass1, pass2) {
   let trueFalse = pass1.localeCompare(pass2)
-  
   if (trueFalse == 0) {
     return(true)
   }else {
@@ -16,4 +16,4 @@ if (Compare(password, passwordConfirm) == true) {
 }else {
     console.log("The passwords are not the same.")
   }
-
+*/
